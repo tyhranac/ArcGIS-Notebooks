@@ -1,6 +1,6 @@
 # ArcGIS-Notebooks
 
-This repository contains notebooks for various web GIS workflows. A summary of each notebook is provided below.
+This repository contains notebooks for various ArcGIS workflows. A summary of each notebook is provided below.
 
 ### Clone Items Notebook App
 
