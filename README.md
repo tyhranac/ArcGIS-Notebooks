@@ -10,6 +10,6 @@ Last updated March 2022.
 
 ### Programmatically Deleting Content in ArcGIS Online
 
-This [ArcGIS Notebook](https://github.com/tyhranac/ArcGIS-Notebooks/blob/main/DeleteContent.ipynb) can be used to programatically delete content in arcGIS Online/Portal for ArcGIS. It uses conditional logic to handle delete protection and recursion to handle dependent items.
+This [ArcGIS Notebook](https://github.com/tyhranac/ArcGIS-Notebooks/blob/main/DeleteContent.ipynb) can be used to programatically delete content in ArcGIS Online/Portal for ArcGIS. It uses conditional logic to handle delete protection and recursion to handle dependent items.
 
 Last updated May 2022.
