@@ -12,4 +12,8 @@ Last updated March 2022.
 
 This [ArcGIS Notebook](https://github.com/tyhranac/ArcGIS-Notebooks/blob/main/DeleteContent.ipynb) can be used to programatically delete content in ArcGIS Online/Portal for ArcGIS. It uses conditional logic to handle delete protection and recursion to handle dependent items.
 
-Last updated May 2022.
+### Check the Authoring Apps of Web Maps
+
+This [ArcGIS Notebook](https://github.com/tyhranac/ArcGIS-Notebooks/blob/main/CheckAuthoringApp.ipynb) can be used to check the authoring apps of your ArcGIS Online web maps (e.g. was a web map created by/last saved in Map Viewer? Map Viewer Classic? ArcGIS Survey123 Connect? ArcGIS Workforce?). 
+
+Last updated October 2022.
